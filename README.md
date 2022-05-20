@@ -1,1 +1,2 @@
-Das-rep
+
+Repository for study at Kata Academy
